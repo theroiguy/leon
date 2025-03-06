@@ -18,8 +18,9 @@
     "url": "https://github.com/leon-ai/leon/issues"
   },
   "engines": {
-    "node": ">=22.13.1",
-    "npm": ">=10.9.2"
+   "node": ">=22.11.0",
+   "npm": ">=10.2.0"
+}
   },
   "volta": {
     "node": "22.13.1"
